@@ -1,0 +1,2 @@
+# gitignoree
+novo repositório
